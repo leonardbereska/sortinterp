@@ -3,3 +3,4 @@ matplotlib
 transformer-lens
 pytest  # required for transformer-lens
 plotly-express
+ipywidgets
